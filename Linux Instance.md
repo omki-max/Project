@@ -8,23 +8,23 @@
                
     in search box and then click on **Select**.
   
-    ![](Image\Linux1.jpg)
+    ![](Image/Linux1.JPG)
  
 3) **Step 2:** Click on check box of **_t2.micro_** instance type and then click on **Next:Configure Instance Details**.
  
-    ![](Linux2.jpg)
+    ![](Image/Linux2.JPG)
     
 4) **Step 3:** **Configure Instance Details page
  
       **Keep every field and check boxes on the page as it is and don't do any changes**\
       Click on **Next: Add Storage**.
     
-    ![](Linux3.jpg)
+    ![](Image/Linux3.JPG)
     
  5) **Step 4:** **Add Storage page** appears
                 Increase the storage size to **30 GiB** and then click on **Next: Add Tags**
                 
-    ![](Linux4.jpg)            
+    ![](Image/Linux4.JPG)            
                 
  6) **Step 5:** **Add Tags page**
  
@@ -32,14 +32,14 @@
                 Fill the fields like **Key**,**Value**
                 Click on **Next: Configure Security Group**
                 
-    ![](Linux5.jpg) 
+    ![](Image/Linux5.JPG) 
     
  7) **Step 6:** **Configure Security Page** appears
  
        Fill the field names **Security group name**,**Description**
        Click on **Review and Launch**
                 
-    ![](Linux6.jpg)
+    ![](Image/Linux6.JPG)
     
  8) Click on **Review and Launch**.
  
@@ -48,7 +48,7 @@
        Check all your filled details
        Then, Click on **Launch** button.
                   
-    ![](Linux7.jpg)
+    ![](Image/Linux7.JPG)
     
  10) **Step 8:** **Important Step**
  
@@ -58,7 +58,7 @@
         And **Don't forget to _Download Key Pair_**
         After downloading key pair Click on **Launch Instances**
                    
-     ![](Linux8.jpg)
+     ![](Image/Linux8.JPG)
      
  11) Click on **View Instances** , Your Linux EC-2 instance is ready in Running state.   
            
