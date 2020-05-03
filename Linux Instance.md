@@ -14,9 +14,7 @@
  
     ![](Linux2.jpg)
     
-4) **Step 3:** 
-                
-                >**Configure Instance Details** page
+4) **Step 3:** **Configure Instance Details page
  
       **Keep every field and check boxes on the page as it is and don't do any changes**\
       Click on **Next: Add Storage**.
@@ -28,7 +26,7 @@
                 
     ![](Linux4.jpg)            
                 
- 6) **Step 5:** > **Add Tags page**
+ 6) **Step 5:** **Add Tags page**
  
        Click on **Add Tag** buton\
                 Fill the fields like **Key**,**Value**
@@ -36,7 +34,7 @@
                 
     ![](Linux5.jpg) 
     
- 7) **Step 6:** > **Configure Security Page** appears
+ 7) **Step 6:** **Configure Security Page** appears
  
        Fill the field names **Security group name**,**Description**
        Click on **Review and Launch**
@@ -45,14 +43,14 @@
     
  8) Click on **Review and Launch**.
  
- 9) **Step 7:** > **Review Instance Launch** page appears
+ 9) **Step 7:** **Review Instance Launch** page appears
  
        Check all your filled details
        Then, Click on **Launch** button.
                   
     ![](Linux7.jpg)
     
- 10) **Step 8:** > **Important Step**
+ 10) **Step 8:** **Important Step**
  
         **A dialog box appears to select Key-Pair**
         Select **Create a new Key pair**
