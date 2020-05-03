@@ -14,7 +14,7 @@
  
     ![](Image/Linux2.JPG)
     
-4) **Step 3:** **Configure Instance Details page
+4) **Step 3:** **Configure Instance Details page**
  
       **Keep every field and check boxes on the page as it is and don't do any changes**\
       Click on **Next: Add Storage**.
@@ -58,7 +58,7 @@
         And **Don't forget to _Download Key Pair_**
         After downloading key pair Click on **Launch Instances**
                    
-     ![](Image/Linux8.JPG)
+     <img src="Image/Linux8.JPG" width=500>
      
  11) Click on **View Instances** , Your Linux EC-2 instance is ready in Running state.   
            
