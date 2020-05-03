@@ -10,7 +10,7 @@
    
    ![](..\desktop\Linux1.jpg)
  
-3) **Step 2:** Click on check box of *t2.micro* instance type and then click on **Next:Configure Instance Details**.
+3) **Step 2:** Click on check box of **_t2.micro_** instance type and then click on **Next:Configure Instance Details**.
  
     ![](Linux2.jpg)
     
