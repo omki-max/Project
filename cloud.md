@@ -1,7 +1,7 @@
 # **1.What is cloud? What are advantages of cloud?**
 
 
-Cloud is where we get resources on rent or cloud is the delivery of computing services.\ Services include servers, storage, database, networks.
+Cloud is where we get resources on rent or cloud is the delivery of computing services.  Services include servers, storage, database, networks.
 
 ### Advantages of cloud:
 1. Security of data
