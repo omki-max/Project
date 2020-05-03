@@ -2,7 +2,9 @@
 
 1) Click on **_Launch Instance_**
 
-2) **Step 1:** Search for > Amazon Linux 2 AMI (HVM), SSD Volume Type - ami-0323c3dd2da7fb37d (64-bit x86) / ami-0ce2e5b7d27317779 (64-bit Arm)\
+2) **Step 1:** Search for 
+
+              > Amazon Linux 2 AMI (HVM), SSD Volume Type - ami-0323c3dd2da7fb37d (64-bit x86) / ami-0ce2e5b7d27317779 (64-bit Arm)\
                
                in search box and then click on **Select**.
    
