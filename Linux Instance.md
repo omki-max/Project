@@ -15,22 +15,22 @@
     ![](Linux2.jpg)
     
 4) **Step 3:** 
-
-                   >**Configure Instance Details** page
+                
+                >**Configure Instance Details** page
  
       **Keep every field and check boxes on the page as it is and don't do any changes**\
-                 Click on **Next: Add Storage**.
+      Click on **Next: Add Storage**.
     
     ![](Linux3.jpg)
     
- 5) **Step 4:** > **Add Storage page** appears
+ 5) **Step 4:** **Add Storage page** appears
                 Increase the storage size to **30 GiB** and then click on **Next: Add Tags**
                 
     ![](Linux4.jpg)            
                 
  6) **Step 5:** > **Add Tags page**
  
-                Click on **Add Tag** buton\
+       Click on **Add Tag** buton\
                 Fill the fields like **Key**,**Value**
                 Click on **Next: Configure Security Group**
                 
@@ -38,8 +38,8 @@
     
  7) **Step 6:** > **Configure Security Page** appears
  
-                Fill the field names **Security group name**,**Description**
-                Click on **Review and Launch**
+       Fill the field names **Security group name**,**Description**
+       Click on **Review and Launch**
                 
     ![](Linux6.jpg)
     
@@ -47,18 +47,18 @@
  
  9) **Step 7:** > **Review Instance Launch** page appears
  
-                  Check all your filled details
-                  Then, Click on **Launch** button.
+       Check all your filled details
+       Then, Click on **Launch** button.
                   
     ![](Linux7.jpg)
     
  10) **Step 8:** > **Important Step**
  
-                   **A dialog box appears to select Key-Pair**
-                   Select **Create a new Key pair**
-                   Give **Key pair name**
-                   And **Don't forget to _Download Key Pair_**
-                   After downloading key pair Click on **Launch Instances**
+        **A dialog box appears to select Key-Pair**
+        Select **Create a new Key pair**
+        Give **Key pair name**
+        And **Don't forget to _Download Key Pair_**
+        After downloading key pair Click on **Launch Instances**
                    
      ![](Linux8.jpg)
      
