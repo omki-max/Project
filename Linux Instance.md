@@ -3,20 +3,22 @@
 1) Click on **_Launch Instance_**
 
 2) **Step 1:** Search for 
-
-              > Amazon Linux 2 AMI (HVM), SSD Volume Type - ami-0323c3dd2da7fb37d (64-bit x86) / ami-0ce2e5b7d27317779 (64-bit Arm)\
                
-               in search box and then click on **Select**.
+              >Amazon Linux 2 AMI (HVM), SSD Volume Type - ami-0323c3dd2da7fb37d (64-bit x86) / ami-0ce2e5b7d27317779 (64-bit Arm)
+               
+    in search box and then click on **Select**.
    
-   ![](Linux1.jpg)
+   ![](..\desktop\Linux1.jpg)
  
 3) **Step 2:** Click on check box of *t2.micro* instance type and then click on **Next:Configure Instance Details**.
  
     ![](Linux2.jpg)
     
-4) **Step 3:** > **Configure Instance Details** page
+4) **Step 3:** 
+
+                   >**Configure Instance Details** page
  
-                 **Keep every field and check boxes on the page as it is and don't do any changes**\
+      **Keep every field and check boxes on the page as it is and don't do any changes**\
                  Click on **Next: Add Storage**.
     
     ![](Linux3.jpg)
